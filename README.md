@@ -1,1 +1,9 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+
+# NextJS Blog
+
+## To Run
+npm run dev
+
+
+## Upto
+https://nextjs.org/learn/basics/api-routes
